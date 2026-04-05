@@ -21,7 +21,6 @@ https://password-generator280.netlify.app
 
 
 ## 🛠️ Tech Stack
-
 - **React 18** - UI Framework
 - **Vite** - Build Tool
 - **Tailwind CSS** - Styling
